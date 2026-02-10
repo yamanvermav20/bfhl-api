@@ -27,6 +27,6 @@ https://bfhl-api-61y1.onrender.com/health
 ## 📌 API Endpoints
 
 ### 🔹 POST `/bfhl`
-Accepts an array of mixed values and returns separated numbers and alphabets.
+### 🔹 GET `/health`
 
 
