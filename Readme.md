@@ -8,10 +8,7 @@ The API processes input data and separates numbers and alphabets, along with a b
 ## 🌐 Live API Links
 
 **POST /bfhl**  
-https://bfhl-api-61y1.onrender.com/bfhl  
-
 **GET /health**  
-https://bfhl-api-61y1.onrender.com/health  
 
 ---
 
